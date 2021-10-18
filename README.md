@@ -1,2 +1,3 @@
 # epidemiological-model-networks
-To run execute on terminal (for example): python3 probability-integer-SIR.py < entradas/graph-brazil-article.in
+To run on terminal (input is graph-*.in): python3 probability-integer-SIR.py < entradas/graph-*.in
+ATTENTION: change * to an appropriate file name.
